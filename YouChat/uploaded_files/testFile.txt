@@ -1,0 +1,27 @@
+PROJECT: INTRANET CHAT APPLICATION
+
+Number of students per group: 5 students
+
+Duration of the project : 2 weeks 
+
+
+Presentation date: 	FRIDAY 10 /JUNE /2016 
+
+VENUE: LLT 4B 
+
+START TIME : 8: 00 AM
+
+
+DESCRIPTION
+
+In this project you are required to develop a Chat application.
+The application should have the following features
+1) Should be GUI-based
+2) Should have atleast two people chatting
+3) Every one on the chart can be able to see all others connected to the chat
+4) He/she can choose to send a broadcast message or private massage to particular individuals
+
+
+
+Challenge for the bored:
+Make the chat be able to send files..
